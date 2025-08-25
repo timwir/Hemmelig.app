@@ -141,7 +141,7 @@
         "burn_description": "Das Geheimnis wird nach dem Lesen dauerhaft gelöscht",
         "burn_after_reading": "Nach dem Lesen vernichten",
         "burn_after_time": "Nach Ablauf der Zeit vernichten",
-        "title": "Hemmelig.app",
+        "title": "🔒 Timwir Secrets",
         "description": "Teile Geheimnisse sicher mit verschlüsselten Nachrichten, die sich nach dem Lesen automatisch selbst zerstören.",
         "content": "Inhalt",
         "content_description": "Gib die geheime Nachricht ein, die Du sicher teilen möchtest",
