@@ -3,17 +3,17 @@ export default `<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Hemmelig.app - Paste a password, confidential message, or private data.</title>
+        <title>🔒 Timwir Secret - Private Daten sicher weitergeben.</title>
 
         <link rel="icon" href="/static/favicon.ico" />
         <link rel="shortcut icon" href="/static/favicon.ico" />
 
         <link rel="manifest" href="/static/manifest.json" />
         <!-- Primary Meta Tags -->
-        <meta name="title" content="Paste a password, confidential message, or private data." />
+        <meta name="title" content="Private Daten sicher weitergeben." />
         <meta
             name="description"
-            content="Ensure your sensitive data remains encrypted, secure, and confidential."
+            content="Private Daten sicher weitergeben."
         />
 
         <!-- Open Graph / Facebook -->
