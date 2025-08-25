@@ -8,7 +8,7 @@ module.exports = {
         extend: {
             colors: {
                 hemmelig: {
-                    DEFAULT: '#2a9d8f',
+                    DEFAULT: '#0abf6a',
                     50: '#ffffff',
                     100: '#eaf5f4',
                     200: '#d4ebe9',
